@@ -41,9 +41,9 @@ GIVEN a functional Express.js API
 
 - [MySQL2 package](https://www.npmjs.com/package/mysql2) to connect to your MySQL database and perform queries.
 - [Sequelize](https://www.npmjs.com/package/sequelize)
-- [dotenv](https://www.npmjs.com/package/dotenv)
+- [Dotenv](https://www.npmjs.com/package/dotenv)
 
 
 ## Usage
 
-run `npm run seed` to seed data to your database so that you can test your routes.
+Run `npm run seed` to seed data to your database so that you can test your routes. Users are then able to view, add, edit, and delete: Categories, Products, and Tags in Insomnia.
