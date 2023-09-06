@@ -47,3 +47,13 @@ GIVEN a functional Express.js API
 ## Usage
 
 Run `npm run seed` to seed data to your database so that you can test your routes. Users are then able to view, add, edit, and delete: Categories, Products, and Tags in Insomnia.
+
+<img width="1362" alt="Screenshot 2023-09-05 at 9 13 46 PM" src="https://github.com/eissamonet/E-Commerce/assets/133728858/62fbbeb1-56f9-40c3-8683-d42c1c154f9f">
+
+
+<img width="1363" alt="Screenshot 2023-09-05 at 9 12 36 PM" src="https://github.com/eissamonet/E-Commerce/assets/133728858/97bfa9f1-a197-4c1b-bf82-ef6f1817f1e1">
+
+
+<img width="1368" alt="Screenshot 2023-09-05 at 9 20 38 PM" src="https://github.com/eissamonet/E-Commerce/assets/133728858/3cf5877d-b799-48fd-b087-23609d566c99">
+
+
